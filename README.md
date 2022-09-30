@@ -1,3 +1,8 @@
+Sam Holland
+University of Minnesota Data Visualization and Analytics Bootcamp
+
+## This is the first homework assingment (Challenge)
+
 # Excel Homework: Charting Crowdfunding
 
 ## Background
